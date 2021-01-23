@@ -1,8 +1,3 @@
-$counter = 0;
-public function index() 
-{ 
-	return view("index", [ counter => $counter ]); 
-}
 @extends('layouts.master')
 @section('content')
 <div class="row counter">
