@@ -1,5 +1,6 @@
 @extends('layouts.master')
 public function index() { return view("index", [ counter => $counter ]); }
+$counter = 0;
 @section('content')
 <div class="row counter">
   <div class="col-md-3 single_counter text-center">
