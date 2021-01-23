@@ -44,11 +44,10 @@
     <div class="attr text-center">
       <h4>Project By</h4>
       <ul class="list-group">
-        <li class="list-group-item">Ankush Jangle</li>
-        <li class="list-group-item">Rohit Bhirud</li>
-        <li class="list-group-item">Gunavant Kapade</li>
-        <li class="list-group-item">Tushar Shinde</li>
-        <li class="list-group-item">Swapnil Patil</li>
+        <li class="list-group-item">Mayank Kushwaha</li>
+        <li class="list-group-item">Kavindra Negi</li>
+        <li class="list-group-item">Pratyush Pandaya</li>
+        <li class="list-group-item">Jay Mistry</li>
       </ul>  
     </div>    
   
