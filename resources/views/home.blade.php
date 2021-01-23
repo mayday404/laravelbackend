@@ -58,6 +58,6 @@
 
   @include('layouts.mapdash')
 
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC-UDxV46NHre_8ys6K0dffqrmeCOLK6Rk&callback=initMap" async defer></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCPeer1neuCumLNT4kxxJq_u4QZt8x_yhA&callback=initMap" async defer></script>
 
 @endsection
