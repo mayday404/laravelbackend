@@ -1,6 +1,6 @@
 <script type="text/javascript">
 		
-		var cords = {!! $cords !!};
+		var cords = {!! $cords};
 
 		console.log(cords);
 
