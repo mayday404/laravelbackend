@@ -48,7 +48,7 @@ Route::group(['middleware' => ['auth', 'role:admin']], function()
 			Route::get('complaints/{user}', 'UsersController@complaints')->name('userComplaints');
 			Route::delete('{user}', 'UsersController@destroy')->name('userDelete');
 		});
-
+//bhadu
 	/**
 	 * Complaint resource routes
 	 */
