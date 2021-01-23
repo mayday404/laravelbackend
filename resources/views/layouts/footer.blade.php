@@ -1,5 +1,5 @@
 <footer>
-    <div class="copyright text-center">Designed By PU_CSE_16</div>
+    <div class="copyright text-center">Designed By J.T.M. Engineers</div>
 </footer>
 
 	@yield('master.js')
