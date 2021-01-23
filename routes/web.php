@@ -89,3 +89,6 @@ Route::group(['prefix' => 'api'], function ()
 	Route::post('/makeComplain', 'ApiController@makeComplain');
 	Route::post('/makeVoiceComplain', 'ApiController@makeVoiceComplain');
 });
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
