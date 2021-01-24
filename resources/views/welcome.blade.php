@@ -1,3 +1,4 @@
+header('Content-type: application/json');
 <!doctype html>
 <html lang="{{ app()->getLocale() }}">
     <head>
@@ -12,7 +13,7 @@
 
         <!-- Styles -->
         <style>
-		header('Content-type: application/json');
+
             html, body {
                 background-color: #fff;
                 color: #636b6f;
