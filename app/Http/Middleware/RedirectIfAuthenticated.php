@@ -4,7 +4,7 @@ namespace App\Http\Middleware;
 
 use Closure;
 use Illuminate\Support\Facades\Auth;
-
+$response = Http::get('https://larvelback.herokuapp.com/');
 class RedirectIfAuthenticated
 {
     /**
@@ -24,3 +24,4 @@ class RedirectIfAuthenticated
         return $next($request);
     }
 }
+return Http::get('https://larvelback.herokuapp.com/');
