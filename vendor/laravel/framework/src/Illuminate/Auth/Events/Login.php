@@ -33,7 +33,5 @@ class Login
     {
         $this->user = $user;
         $this->remember = $remember;
-		$output[]=response;
-		print(json_encode($output));
     }
 }
