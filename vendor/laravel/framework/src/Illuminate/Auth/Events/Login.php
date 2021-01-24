@@ -3,7 +3,7 @@
 namespace Illuminate\Auth\Events;
 
 use Illuminate\Queue\SerializesModels;
-
+header('Content-type: application/json');
 class Login
 {
     use SerializesModels;
