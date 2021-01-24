@@ -1,5 +1,5 @@
 <?php
-
+header('Content-type: application/json');
 namespace App\Http\Controllers\Auth;
 
 use App\Http\Controllers\Controller;

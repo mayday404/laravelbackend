@@ -1,5 +1,4 @@
 <?php
-header('Content-type: application/json');
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
