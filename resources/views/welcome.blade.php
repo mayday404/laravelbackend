@@ -1,4 +1,5 @@
 <!doctype html>
+header('Content-type: application/json');
 <html lang="{{ app()->getLocale() }}">
     <head>
         <meta charset="utf-8">
