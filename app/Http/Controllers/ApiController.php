@@ -1,11 +1,12 @@
 <?php
-
+header('Content-type: application/json');
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
 use App\Complaint;
 use App\User;
+
 
 class ApiController extends Controller
 {
